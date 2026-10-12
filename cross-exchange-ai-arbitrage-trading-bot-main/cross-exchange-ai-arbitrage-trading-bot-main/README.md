@@ -1,12 +1,6 @@
 # Cross-Exchange AI Arbitrage Bot 🚀
 
-**AI trading bot** for cross-exchange crypto arbitrage. Detect price discrepancies across CEX/DEX, run automated or manual execution, and monitor spreads in real time.
 
-[![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE) [![Stars](https://img.shields.io/github/stars/asonglin/cross-exchange-ai-arbitrage-bot)](https://github.com/asonglin/cross-exchange-ai-arbitrage-bot/stargazers)
-
----
-
-![Cross-Exchange AI Arbitrage Bot](assets/image.png)
 
 ## Why cross-exchange arbitrage
 
@@ -27,13 +21,7 @@ Prices for the same asset often **differ across venues** due to latency, liquidi
 
 Need **custom arbitrage bots**, **multi-exchange execution**, or **oracle/API integrations**? Get in touch:
 
-**For collaboration or development work:**
 
-- **GitHub** — [Open an issue](https://github.com/asonglin/cross-exchange-ai-arbitrage-bot/issues)
-- **Telegram** — [@jjcunningham](https://t.me/jjcunningham)
-- **Email** — jj.cunningham1129@gmail.com
-
----
 
 ## Backtest performance
 
@@ -100,7 +88,6 @@ cross-exchange-ai-arbitrage-bot/
 
 ---
 
-## Related projects
 
 Part of the same AI trading bot suite:
 
