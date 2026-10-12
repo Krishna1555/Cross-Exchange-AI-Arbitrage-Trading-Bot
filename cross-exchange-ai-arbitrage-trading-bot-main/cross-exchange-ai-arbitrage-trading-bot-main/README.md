@@ -86,14 +86,3 @@ cross-exchange-ai-arbitrage-bot/
 └── run.ps1           # run helper
 ```
 
----
-
-
-Part of the same AI trading bot suite:
-
-- [Crypto Futures AI Trading Bot](https://github.com/asonglin/crypto-futures-ai-trading-bot) — AI trading bot for funding arbitrage and smart-money monitoring
-- [Crypto Liquidity AI Trading Bot](https://github.com/asonglin/crypto-liquidity-ai-trading-bot) — AI trading bot for order-book liquidity and sweep signals
-
----
-
-**License:** MIT © 2026
